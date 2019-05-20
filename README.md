@@ -12,6 +12,20 @@ For slides and example code, see [lesson 12](../../../fhnw-iot/blob/master/12/RE
 * Check the [Raspberry Pi pinout](https://pinout.xyz/pinout/wiringpi) and use 3.3V, not 5V.
 * Done? Try to read a [Grove sensor with Node-RED](https://flows.nodered.org/?term=grovepi&type=node&num_pages=1).
 
+### b) Edge gateways, 10'
+* Chose one of the edge gateway projects and analyse it.
+* Which protocol is used to transmit data to the cloud?
+* How are updates deployed to the gateway, by whom?
+* How can a proprietary local protocol be integrated?
+* Be prepared to present your results.
+
+### c) Embedded ML use cases, 10'
+* Hands-on, 10': Embedded ML use cases
+* Devices will know your face, voice, mood, intentions.
+* Which new use cases become possible with edge ML?
+* Try to take a "[thing centered](https://online-learning.tudelft.nl/courses/thing-centered-design/)" perspective, as a device.
+* Be prepared to present your results.
+
 ### Submitting results
 * [Commit and push](#git) local changes to your repository.
 * Want a review? [Create an issue](../../issues/new), mention me (@tamberg).
