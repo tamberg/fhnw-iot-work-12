@@ -7,10 +7,9 @@ For slides and example code, see [lesson 12](../../../fhnw-iot/blob/master/12/RE
 
 ### a) Raspberry Pi GPIO, 15'
 * Use the [Grove hat](https://github.com/tamberg/fhnw-iot/wiki/Grove-Adapters#grove-base-hat-for-raspberry-pi) to connect Grove sensors to the Pi.
-* Read analog values using the grove.py Python library.
-* No hat? Use a [Grove jumper](https://github.com/tamberg/fhnw-iot/wiki/Grove-Adapters#grove-jumper-wires) wire to connect a sensor.
-* Check the [Raspberry Pi pinout](https://pinout.xyz/pinout/wiringpi) and use 3.3V, not 5V.
-* Done? Try to read a [Grove sensor with Node-RED](https://flows.nodered.org/?term=grovepi&type=node&num_pages=1).
+* Install the grove.py library and use it with Node-RED.
+* Check the [Grove hat pinout](https://github.com/tamberg/fhnw-iot/wiki/Grove-Adapters#pinout-1), use 3.3V modules only.
+* No hat? Use [wires](https://github.com/tamberg/fhnw-iot/wiki/Grove-Adapters#grove-jumper-wires), check the [Raspberry Pi pinout](https://pinout.xyz/pinout/wiringpi).
 
 ### b) Edge gateways, 10'
 * Chose one of the edge gateway projects and analyse it.
