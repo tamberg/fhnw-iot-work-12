@@ -19,7 +19,7 @@ For slides and example code, see [lesson 12](../../../fhnw-iot/blob/master/12/RE
 * Be prepared to present your results.
 
 ### c) Embedded ML use cases, 10'
-* Devices will know your face, voice, mood, intentions.
+* Assuming devices can know your face, voice, mood.
 * Which new use cases become possible with edge ML?
 * Try to take a "[thing centered](https://online-learning.tudelft.nl/courses/thing-centered-design/)" perspective, as a device.
 * Be prepared to present your results.
